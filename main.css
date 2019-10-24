@@ -1,7 +1,7 @@
 body {
   margin-top:60px;
   background-color:lightgray;
-  text:center;
+  text-align: center;
 }
 .lightgray-background{
     background-color:lightgray;

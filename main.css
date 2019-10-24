@@ -1,0 +1,32 @@
+body {
+  margin-top:60px;
+  background-color:lightgray;
+}
+.lightgray-background{
+    background-color:lightgray;
+  }
+  h1{
+    color:grey;
+  }
+  
+  .thin-grey-border{
+    border-color:grey;
+    border-width:2px;
+    border-style:solid;
+    border-radius:0.5%;
+  }
+  .larger-image2{
+    width:700px;
+  }
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+  .font-style{
+    font-family:caligrapher;
+  }
+  .font=style2{
+    font-family:Amazone BT
+  }

@@ -1,7 +1,9 @@
 body {
-  margin-top:60px;
+  margin-top:30px;
   background-color:lightgray;
   text-align: center;
+  margin: auto;
+  padding: 10px;
 }
 .lightgray-background{
     background-color:lightgray;

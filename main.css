@@ -2,7 +2,10 @@ body {
   margin-top:30px;
   background-color:lightgray;
   text-align: center;
+
+
   max-width: 500px;
+
   margin: auto;
   padding: 10px;
 }
